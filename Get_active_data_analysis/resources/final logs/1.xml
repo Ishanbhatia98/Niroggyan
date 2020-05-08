@@ -1,0 +1,436 @@
+2019-12-08T13:34:48.208Z START RequestId: aaa2f9da-ca4f-4705-804c-19a077cc3a6c Version: $LATEST
+
+2019-12-08T13:34:48.213Z 2019-12-08T13:34:48.212Z	aaa2f9da-ca4f-4705-804c-19a077cc3a6c<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<header>
+		<personInfo>
+			<gender value="male"/>
+			<name value="mmurali"/>
+			<age value="44"/>
+		</personInfo>
+		<date value="2019-07-25"/>
+	</header>
+	<values>
+		<items>
+			<item>
+				<low value="4000"/>
+				<high value="10000"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="5700"/>
+				<param value="TOTAL LEUCOCYTE COUNT (TLC)"/>
+			</item>
+			<item>
+				<low value="83"/>
+				<high value="101"/>
+				<unit value="fL"/>
+				<order_id value="9823"/>
+				<value value="89"/>
+				<param value="MCV"/>
+			</item>
+			<item>
+				<low value="13"/>
+				<high value="17"/>
+				<unit value="g/dL"/>
+				<order_id value="9823"/>
+				<value value="15.8"/>
+				<param value="HAEMOGLOBIN"/>
+			</item>
+			<item>
+				<low value="4.5"/>
+				<high value="5.5"/>
+				<unit value="Million/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="5.28"/>
+				<param value="RBC COUNT"/>
+			</item>
+			<item>
+				<low value="2000"/>
+				<high value="7000"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="3465.6"/>
+				<param value="NEUTROPHILS"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="1.1"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="0.7"/>
+				<param value="BILIRUBIN (INDIRECT)"/>
+			</item>
+			<item>
+				<low value="0.97"/>
+				<high value="1.80"/>
+				<unit value="ng/mL"/>
+				<order_id value="9823"/>
+				<value value="1.50"/>
+				<param value="TRI-IODOTHYRONINE (T3, TOTAL)"/>
+			</item>
+			<item>
+				<low value="2.0"/>
+				<high value="3.5"/>
+				<unit value="g/dL"/>
+				<order_id value="9823"/>
+				<value value="3.2"/>
+				<param value="GLOBULIN"/>
+			</item>
+			<item>
+				<low value="11.6"/>
+				<high value="14"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="12.4"/>
+				<param value="R.D.W-CV"/>
+			</item>
+			<item>
+				<low value="2.5"/>
+				<high value="4.5"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="3.4"/>
+				<param value="PHOSPHORUS, INORGANIC"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="0.3"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="0.2"/>
+				<param value="BILIRUBIN CONJUGATED (DIRECT)"/>
+			</item>
+			<item>
+				<low value="5"/>
+				<high value="30"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="16.4"/>
+				<param value="VLDL CHOLESTEROL"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="2"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="0.1"/>
+				<param value="BASOPHILS %"/>
+			</item>
+			<item>
+				<low value="2"/>
+				<high value="10"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="2.2"/>
+				<param value="MONOCYTES %"/>
+			</item>
+			<item>
+				<low value="200"/>
+				<high value="1000"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="125.4"/>
+				<param value="MONOCYTES"/>
+			</item>
+			<item>
+				<low value="0.46"/>
+				<high value="4.68"/>
+				<unit value="µIU/mL"/>
+				<order_id value="9823"/>
+				<value value="2.05"/>
+				<param value="TSH"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<param value="GAMMA GLUTAMYL TRANSPEPTIDASE (GGT)"/>
+				<order_id value="9823"/>
+				<unit value="U/L"/>
+				<value value="21"/>
+			</item>
+			<item>
+				<low value="70"/>
+				<high value="100"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="91"/>
+				<param value="GLUCOSE, FASTING"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="100"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="128.2"/>
+				<param value="LDL CHOLESTEROL"/>
+			</item>
+			<item>
+				<low value="17"/>
+				<high value="59"/>
+				<unit value="U/L"/>
+				<order_id value="9823"/>
+				<value value="27"/>
+				<param value="ASPARTATE AMINOTRANSFERASE (AST/SGOT)"/>
+			</item>
+			<item>
+				<low value="37.0"/>
+				<high value="54.0"/>
+				<unit value="fl"/>
+				<order_id value="9823"/>
+				<value value="39"/>
+				<param value="R.D.W-SD"/>
+			</item>
+			<item>
+				<low value="1"/>
+				<high value="6"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="1.5"/>
+				<param value="EOSINOPHILS %"/>
+			</item>
+			<item>
+				<low value="31.5"/>
+				<high value="34.5"/>
+				<unit value="g/dL"/>
+				<order_id value="9823"/>
+				<value value="33.9"/>
+				<param value="MCHC"/>
+			</item>
+			<item>
+				<low value="39"/>
+				<high value="60"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="47.4"/>
+				<param value="HDL CHOLESTEROL"/>
+			</item>
+			<item>
+				<low value="40"/>
+				<high value="50"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="46.7"/>
+				<param value="PCV"/>
+			</item>
+			<item>
+				<low value="20"/>
+				<high value="500"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="85.5"/>
+				<param value="EOSINOPHILS"/>
+			</item>
+			<item>
+				<low value="0.20"/>
+				<high value="1.20"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="0.9"/>
+				<param value="BILIRUBIN, TOTAL"/>
+			</item>
+			<item>
+				<low value="50"/>
+				<high value="149"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="82"/>
+				<param value="TRIGLYCERIDES"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="15"/>
+				<unit value="mm at the end of 1 hour"/>
+				<order_id value="9823"/>
+				<value value="10"/>
+				<param value="ESR (ERYTHROCYTE SEDIMENTATION RATE)"/>
+			</item>
+			<item>
+				<low value="0.8"/>
+				<high value="2.0"/>
+				<unit value=""/>
+				<order_id value="9823"/>
+				<value value="1.34"/>
+				<param value="A/G RATIO"/>
+			</item>
+			<item>
+				<low value="38"/>
+				<high value="126"/>
+				<unit value="U/L"/>
+				<order_id value="9823"/>
+				<value value="86"/>
+				<param value="ALKALINE PHOSPHATASE"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="100"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="5.7"/>
+				<param value="BASOPHILS"/>
+			</item>
+			<item>
+				<param value="ESTIMATED AVERAGE GLUCOSE (eAG)"/>
+				<order_id value="9823"/>
+				<unit value="mg/dL"/>
+				<value value="108.28"/>
+			</item>
+			<item>
+				<low value="9"/>
+				<high value="20"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="8.88"/>
+				<param value="BLOOD UREA NITROGEN"/>
+			</item>
+			<item>
+				<low value="8.4"/>
+				<high value="10.2"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="8.7"/>
+				<param value="CALCIUM"/>
+			</item>
+			<item>
+				<low value="5.53"/>
+				<high value="14.00"/>
+				<unit value="µg/dL"/>
+				<order_id value="9823"/>
+				<value value="10.5"/>
+				<param value="THYROXINE (T4, TOTAL)"/>
+			</item>
+			<item>
+				<low value="3.5"/>
+				<high value="6.0"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="5.4"/>
+				<param value="HbA1c, GLYCATED HEMOGLOBIN"/>
+			</item>
+			<item>
+				<low value="0.0"/>
+				<high value="50"/>
+				<unit value="U/L"/>
+				<order_id value="9823"/>
+				<value value="18"/>
+				<param value="ALANINE AMINOTRANSFERASE (ALT/SGPT)"/>
+			</item>
+			<item>
+				<low value="3.5"/>
+				<high value="5.0"/>
+				<unit value="g/dL"/>
+				<order_id value="9823"/>
+				<value value="4.3"/>
+				<param value="ALBUMIN"/>
+			</item>
+			<item>
+				<low value="40"/>
+				<high value="80"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="60.8"/>
+				<param value="NEUTROPHILS %"/>
+			</item>
+			<item>
+				<low value="19"/>
+				<high value="43"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="19"/>
+				<param value="UREA"/>
+			</item>
+			<item>
+				<low value="50"/>
+				<high value="199"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="192"/>
+				<param value="TOTAL CHOLESTEROL"/>
+			</item>
+			<item>
+				<low value="6.3"/>
+				<high value="8.2"/>
+				<unit value="g/dL"/>
+				<order_id value="9823"/>
+				<value value="7.5"/>
+				<param value="PROTEIN, TOTAL"/>
+			</item>
+			<item>
+				<low value="3.5"/>
+				<high value="8.5"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="5.0"/>
+				<param value="URIC ACID"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="4.97"/>
+				<unit value=""/>
+				<order_id value="9823"/>
+				<value value="4.05"/>
+				<param value="CHOL / HDL RATIO"/>
+			</item>
+			<item>
+				<low value="27"/>
+				<high value="32"/>
+				<unit value="pg"/>
+				<order_id value="9823"/>
+				<value value="30.0"/>
+				<param value="MCH"/>
+			</item>
+			<item>
+				<low value="150000"/>
+				<high value="410000"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="241000"/>
+				<param value="PLATELET COUNT"/>
+			</item>
+			<item>
+				<low value="20"/>
+				<high value="40"/>
+				<unit value="%"/>
+				<order_id value="9823"/>
+				<value value="35.4"/>
+				<param value="LYMPHOCYTES %"/>
+			</item>
+			<item>
+				<low value="0.66"/>
+				<high value="1.25"/>
+				<unit value="mg/dL"/>
+				<order_id value="9823"/>
+				<value value="0.78"/>
+				<param value="CREATININE"/>
+			</item>
+			<item>
+				<param value="PERIPHERAL SMEAR"/>
+				<order_id value="9823"/>
+				<value value="&lt;p&gt;RBC&amp;#39;S ARE NORMOCYTIC NORMOCHROMIC&lt;br /&gt;WBC&amp;#39;S ARE NORMAL IN TOTAL NUMBER , MORPHOLOGY AND DISTRIBUTION.&amp;nbsp;&lt;br /&gt;PLATELETS ARE ADEQUATE.&lt;br /&gt;NO HEMOPARASITES SEEN.&lt;br /&gt;&lt;br /&gt;IMPRESSION: NORMOCYTIC NORMOCHROMIC BLOOD PICTURE.&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+"/>
+			</item>
+			<item>
+				<low value="0"/>
+				<high value="5"/>
+				<unit value="mg/ L"/>
+				<order_id value="9823"/>
+				<value value="1.1"/>
+				<param value="HS-CRP (HIGH SENSITIVITY C-REACTIVE PROTEIN)"/>
+			</item>
+			<item>
+				<low value="1000"/>
+				<high value="3000"/>
+				<unit value="Cells/cu.mm"/>
+				<order_id value="9823"/>
+				<value value="2017.8"/>
+				<param value="LYMPHOCYTES"/>
+			</item>
+		</items>
+	</values>
+</root>
+
+
+2019-12-08T13:34:48.933Z 2019-12-08T13:34:48.933Z	aaa2f9da-ca4f-4705-804c-19a077cc3a6c	(node:1) Warning: N-API is an experimental feature and could change at any time.
+
+2019-12-08T13:35:03.332Z END RequestId: aaa2f9da-ca4f-4705-804c-19a077cc3a6c
+
+2019-12-08T13:35:03.332Z REPORT RequestId: aaa2f9da-ca4f-4705-804c-19a077cc3a6c	Duration: 15124.38 ms	Billed Duration: 15200 ms	Memory Size: 576 MB	Max Memory Used: 481 MB	Init Duration: 8.14 ms	
+

@@ -1,0 +1,24 @@
+2020-01-23T12:44:52.002Z START RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087 Version: $LATEST
+
+2020-01-23T12:44:52.012Z 2020-01-23T12:44:52.012Z	74ba8f56-c8a1-41a8-aebd-46dc6e4dc087	{"errorMessage":"First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.","errorType":"TypeError","stackTrace":["Function.Buffer.from (buffer.js:183:11)","new Buffer (buffer.js:158:17)","exports.handler (/var/task/index.js:2:17)"]}
+
+2020-01-23T12:44:52.013Z END RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087
+
+2020-01-23T12:44:52.013Z REPORT RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087	Duration: 10.19 ms	Billed Duration: 100 ms	Memory Size: 576 MB	Max Memory Used: 59 MB	Init Duration: 8.56 ms	
+
+2020-01-23T12:45:54.178Z START RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087 Version: $LATEST
+
+2020-01-23T12:45:54.181Z 2020-01-23T12:45:54.181Z	74ba8f56-c8a1-41a8-aebd-46dc6e4dc087	{"errorMessage":"First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.","errorType":"TypeError","stackTrace":["Function.Buffer.from (buffer.js:183:11)","new Buffer (buffer.js:158:17)","exports.handler (/var/task/index.js:2:17)"]}
+
+2020-01-23T12:45:54.181Z END RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087
+
+2020-01-23T12:45:54.181Z REPORT RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087	Duration: 0.81 ms	Billed Duration: 100 ms	Memory Size: 576 MB	Max Memory Used: 59 MB	
+
+2020-01-23T12:48:09.352Z START RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087 Version: $LATEST
+
+2020-01-23T12:48:09.357Z 2020-01-23T12:48:09.357Z	74ba8f56-c8a1-41a8-aebd-46dc6e4dc087	{"errorMessage":"First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.","errorType":"TypeError","stackTrace":["Function.Buffer.from (buffer.js:183:11)","new Buffer (buffer.js:158:17)","exports.handler (/var/task/index.js:2:17)"]}
+
+2020-01-23T12:48:09.357Z END RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087
+
+2020-01-23T12:48:09.357Z REPORT RequestId: 74ba8f56-c8a1-41a8-aebd-46dc6e4dc087	Duration: 0.69 ms	Billed Duration: 100 ms	Memory Size: 576 MB	Max Memory Used: 59 MB	
+
